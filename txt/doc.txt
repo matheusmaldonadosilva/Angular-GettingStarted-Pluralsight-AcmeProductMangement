@@ -1,0 +1,3 @@
+developer.mozilla.org/pt-BR/docs/Web/events
+
+community access docs events web
